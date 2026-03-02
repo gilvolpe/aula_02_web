@@ -18,6 +18,19 @@ body {
 	border: 1px solid #ddd;
 }
 
+.card img {
+	background-color: #3498db;
+	color: white;
+	border: none;
+	padding: 5px 5px;
+	border-radius: 50%;
+	cursor: pointer;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+}
+
+
 button {
 	background-color: #34980b;
 	color: white;
@@ -25,5 +38,5 @@ button {
 	padding: 10px 20px;
 	border-radius: 5px;
 	cursor: pointer;
-	transition: background 0.3s
+	transition: background 0.3s;
 }
