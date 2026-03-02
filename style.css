@@ -7,3 +7,13 @@ body {
 	height: 100v;
 	margin: 0;
 }
+
+.card {
+	background-color: white;
+	width: 300px;
+	padding: 20px;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px rgba(0,0,0,1);
+	text-align: center;
+	border: 1px solid #ddd;
+}
